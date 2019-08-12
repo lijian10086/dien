@@ -36,3 +36,5 @@ The model blelow had been supported:
 - DIEN (https://arxiv.org/pdf/1809.03672.pdf) 
 
 Note: we use tensorflow 1.4.
+## 论文笔记：
+1、https://www.jianshu.com/p/79060b8db1eb  【paper reading】Deep Interest Evolution Network for Click-Through Rate Prediction
